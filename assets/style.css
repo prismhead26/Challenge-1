@@ -19,8 +19,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/*  CSS Grouping Selector */
-.header h1 .seo, body {
+/*  CSS Grouping Selector  Also put body in this order since .header class prioritizes */
+body, .header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -31,7 +31,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* removes list bullets, fwi ..... didn't change the Site,
+ nor do you see any bulletin points, but will keep on since it most likely helps with accessibility */
 .header div ul {
     list-style-type: none;
 }
