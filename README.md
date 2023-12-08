@@ -20,6 +20,7 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Installation
 
 Chrome and/or Firefox are the preffered browsers to view to the program.
+<br>
 For the IDE, use Vs Code as well as the "Open with Live Server" Extension.
 
 Steps Include:
