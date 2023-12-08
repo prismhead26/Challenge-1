@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../assets/images/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -170,7 +170,7 @@ p {
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 208px;
 }
 
 .search-engine-optimization h2 {
@@ -197,4 +197,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
+};
