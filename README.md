@@ -44,7 +44,7 @@ Please refer to the LICENSE in the repo.
 
 ## Badges
 
-https://img.shields.io/badge/HTML_and_CSS%20-100%25%20-blue
+![Static Badge](https://img.shields.io/badge/HTML_and_CSS%20-100%25%20-blue)
 
 ## Features
 
