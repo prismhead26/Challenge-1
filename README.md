@@ -1,13 +1,10 @@
-# <Challenge 1>
+# Challenge 1
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The main goal of this project is to create a codebase that follows accessibility standards, so that the site is optimised for search engines. And it makes certain that people with diabilities can access the website.
+<br>
+After completion of the project, I have a better understanding of the 'git' process as well as using pseudocode to break down and manage the project into managable segments. I also learned some better ways to write the CSS, thus making the code easier to read and more modular!
 
 ## Table of Contents
 
@@ -16,6 +13,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - [Credits](#credits)
 - [License](#license)
 - [Badges](#badges)
+- [Features](#features)
+- [Tests](#tests)
 
 ## Installation
 
@@ -50,8 +49,12 @@ Please refer to the LICENSE in the repo.
 
 ## Features
 
-If your project has a lot of features, list them here.
+CSS, CSS Selectors, Box model, positioning, etc.
+<br>
+Basic HTML with lists.
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+In order to test, run the program using the "Open with Live Server" Exstension.
+<br>
+Note: If the images are not visible, you will need to re-link each image in relation to the assets folder.
