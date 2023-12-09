@@ -2,9 +2,9 @@
 
 ## Description
 
-The main goal of this project is to create a codebase that follows accessibility standards, so that the site is optimised for search engines. And it makes certain that people with diabilities can access the website.
+The main goal of this project is to create a codebase that follows accessibility standards, so that the site is optimized for search engines. And it makes certain that people with disabilities can access the website.
 <br>
-After completion of the project, I have a better understanding of the 'git' process as well as using pseudocode to break down and manage the project into managable segments. I also learned some better ways to write the CSS, thus making the code easier to read and more modular!
+After completion of the project, I have a better understanding of the git "flow" process as well as using pseudocode to break down and manage the project into managable segments. I also learned some better ways to write the CSS, thus making the code easier to read and more modular!
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ After completion of the project, I have a better understanding of the 'git' proc
 
 ## Installation
 
-Chrome and/or Firefox are the preffered browsers to view to the program.
+Chrome and/or Firefox are the preferred browsers to view to the program.
 <br>
 For the IDE, use Vs Code as well as the "Open with Live Server" Extension.
 
