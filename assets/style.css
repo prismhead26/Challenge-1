@@ -4,7 +4,6 @@
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
 /*  Added a Unified font across the page, instead of having a mess of random fonts. Also combined fonts for better accessibility.*/
-
 }
 /*  Added the .header h1 for grouping, it also affected the footer element's color
 body {
@@ -36,11 +35,13 @@ header nav {
 }
 /* removes list bullets, fwi ..... didn't change the Site,
  nor do you see any bulletin points, but will keep on since it most likely helps with accessibility */
+ /*
 header nav li {
     list-style-type: none;
 }
-
+*/
 header nav li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
@@ -62,6 +63,12 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* re-arranged the content and floaters to match with html */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .float-left {
     float: left;
@@ -73,14 +80,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 .benefits {
-    
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -204,4 +204,9 @@ footer {
 
 footer h2 {
     font-size: 20px;
-};
+}
+  /* Responsive layout: when the screen is less than 700px wide, the elements will be set vertical in a column ..... Better accessibility*/
+  @media screen and (max-width: 700px) {
+    header, body, footer { flex-direction: column;
+    }
+  };
