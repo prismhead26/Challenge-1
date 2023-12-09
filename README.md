@@ -45,6 +45,14 @@ Link to deployed application:
 Link to HTML file:
 <br>
 [HTML](/index.html)
+<br>
+Link to CSS file:
+<br>
+[CSS](/assets/style.css)
+<br>
+Link to README file:
+<br>
+[README](/README.md)
 
 ## Credits
 
