@@ -15,6 +15,7 @@ After completion of the project, I have a better understanding of the git "flow"
 - [Badges](#badges)
 - [Features](#features)
 - [Tests](#tests)
+- [Links](#links)
 
 ## Installation
 
@@ -34,6 +35,16 @@ Steps Include:
 Here's what the expected output should be:
 
 ![alt text](assets/images/01-html-css-git-homework-demo.png)
+
+## Links
+
+Link to deployed application:
+<br>
+[logo]: https://prismhead26.github.io/Challenge-1/ "Search Engine Optimization"
+<br>
+Link to HTML file:
+<br>
+[HTML](/index.html)
 
 ## Credits
 
