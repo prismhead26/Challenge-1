@@ -34,7 +34,7 @@ Steps Include:
 
 Here's what the expected output should be:
 
-![alt text](assets/images/01-html-css-git-homework-demo.png)
+![alt text](assets/images/Application-Screenshot.png)
 
 ## Links
 
