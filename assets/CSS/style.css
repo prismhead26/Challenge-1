@@ -26,7 +26,7 @@ Doing it this way also helped me understand containers and elements a lot more.*
   }
   /*Using em for better accessibility*/
   h1 {
-    font-size: 2em;
+    font-size: 4em;
   }
   
   h1 .seo {
@@ -49,13 +49,14 @@ Doing it this way also helped me understand containers and elements a lot more.*
   }
   
   nav ul li {
-    padding: 0 10px 0 10px;
+    padding: 0 40px 0 40px;
   }
   
   nav a {
     color: #b9c6ae;
     font-weight: bold;
     text-decoration: none;
+    font-size: 1.3em;
   }
   
   nav a:hover {
