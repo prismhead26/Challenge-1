@@ -1,4 +1,4 @@
-# Challenge 1
+# Marketing-Agency-Page
 
 ## Description
 
@@ -40,7 +40,7 @@ Here's what the expected output should be:
 
 Link to deployed application:
 <br>
-[logo]: https://prismhead26.github.io/Challenge-1/ "Search Engine Optimization"
+[logo]: https://prismhead26.github.io/Marketing-Agency-Page/ "Search Engine Optimization"
 <br>
 Link to HTML file:
 <br>
